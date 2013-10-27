@@ -1,1 +1,1 @@
-Proszę napisać program, który wczytuje liczby oraz oblicza ich średnią oraz odchylenie standardowe. Proszę uzyć funkcji do obliczenia kwadratu różnicy.
+#
